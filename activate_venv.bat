@@ -1,0 +1,2 @@
+cd ./llmvenv/Scripts
+./activate
